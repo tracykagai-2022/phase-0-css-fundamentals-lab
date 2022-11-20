@@ -3,3 +3,32 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+  color: red;
+}
+
+#featured-property {
+
+   padding-left: 250px;
+   width: 800px;
+   text-align: center;
+  
+}
+
+#descrpt {
+  text-align: center;
+}
+
+.img {
+  display direction: right
+}
+
+#details{
+  display: flex;
+  flex-direction: row;
+  gap: 200px;
+  background-color: red;
+  padding-left: 20px;
+}
